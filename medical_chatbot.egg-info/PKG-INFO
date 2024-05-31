@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: medical_chatbot
+Version: 0.0.1
+Author: Shashank atthaluri
+Author-email: shashankatthaluri@gmail.com
+Requires-Dist: ctransformers==0.2.5
+Requires-Dist: sentence-transformers==2.2.2
+Requires-Dist: pinecone-client
+Requires-Dist: langchain
+Requires-Dist: flask
